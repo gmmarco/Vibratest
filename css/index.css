@@ -1,0 +1,9 @@
+body{
+    padding:10px;
+}
+
+.btn-custom{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
